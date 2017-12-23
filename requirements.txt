@@ -1,4 +1,5 @@
 numpy
 qiskit
 sympy
+cupy
 IBMQuantumExperience
